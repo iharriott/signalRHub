@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKxIvljNaT4l/eparwthaidCjIuLFfbGMf4xOPRe0dgnw7T4/F3p41ZPTXgoJvmG/HZjt1qOG+U1ZNxRo90UIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianha\\ILINK-WORKING\\charts-signalR\\charts-backend\\charts-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
